@@ -2,6 +2,8 @@
 
 Prova di link [a relative link](another-page.md) seguendo [questa indicazione](https://github.com/blog/2290-relative-links-for-github-pages).
 
+This is [a link](http://terna.to.it){:target="_blank"} that opens in a new window.
+
 You can use the [editor on GitHub](https://github.com/terna/terna.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
