@@ -1,3 +1,3 @@
 Ecco dove si arriva.
 
-Anche con un link a [SLAPP](https://github.com/terna/SLAPP/).
+Anche con un link a [SLAPP](https://terna.github.io/SLAPP/).
